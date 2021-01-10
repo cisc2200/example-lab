@@ -1,3 +1,3 @@
-#include <iostream>
-
-void sayHello(std::ostream &os) { os << "Hello world!"; }
+void sayHello(std::ostream &os) { 
+  // TODO: print out "Hello world!"
+}
